@@ -17,7 +17,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "Direct URL of the decrypted YouTube IPA"
+        description: "https://cloud.diyalog.de/s/DDpbq3SEpnt2od5"
         default: ""
         required: true
         type: string
