@@ -17,7 +17,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "https://cloud.diyalog.de/s/DDpbq3SEpnt2od5"
+        description: "https://www.dropbox.com/scl/fi/3sdprd3jhl4y9xgunmash/com.google.ios.youtube-20.11.6-Decrypted.ipa?rlkey=wth2nlpvvnq6oelr5pml2y4qz&st=4l3lrskl&dl=0"
         default: ""
         required: true
         type: string
